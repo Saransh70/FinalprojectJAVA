@@ -96,3 +96,4 @@ public class StudentAttendance extends JFrame implements ActionListener{
         new StudentAttendance();
     }
 }
+
